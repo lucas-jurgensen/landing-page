@@ -5,7 +5,6 @@ Desing de landing page sobre um smartwatch
 Projeto do curso B7WEB, criado pelo Bonieky Lacerda - https://github.com/bonieky
 
 # LINGUAGENS UTILIZADAS 
-
 - html
 - css
 
